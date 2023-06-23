@@ -1,9 +1,5 @@
 # Breast-Cancer-Survival-Predication
 
-Sure! Here's a creative GitHub README file for the breast cancer survival prediction project:
-
-# Breast Cancer Survival Prediction
-
 
 Welcome to the Breast Cancer Survival Prediction project! This repository contains code and resources for predicting the likelihood of breast cancer patient survival based on various clinical and demographic factors. This tool aims to assist healthcare professionals in making informed decisions regarding patient prognosis and treatment plans.
 
